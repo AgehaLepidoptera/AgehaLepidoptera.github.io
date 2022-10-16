@@ -4,3 +4,7 @@
  background-color: #C1B2D3;
  text-align: center;
 }
+body {
+   margin: 0;
+   padding: 0;
+}
