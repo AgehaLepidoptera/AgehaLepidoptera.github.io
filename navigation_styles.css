@@ -1,1 +1,28 @@
-placeholder
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Courier New', monospace;
+    background-color: rgba(41.2, 41.2, 41.2, 0.6);
+    font-size: 20px;
+    color: #F2EFDE;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: rgba(41.2, 41.2, 41.2, 0.3);
+}
+
+p {
+  display: block;
+  overflow: hidden;
+}
